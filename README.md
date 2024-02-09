@@ -1,1 +1,2 @@
 # covid_research
+The repository represents covid research made by Lev Barbash, Maria Avdeeva and Elena Sholohova during the 3rd year of HSE University Business-IT Bsc, course: "Quantitative Methods in Economics" (mainly in russian). The notebook contains the statistical analysis of the loglike data of Covid-19 influence on different countries. Three linear models predicting infection and mortality were proposed and went through statistical checks.
